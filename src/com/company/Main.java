@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("\nKalkulator Segiduabelas \n");
 
-        Scanner InputUser = new Scanner(System.in);
+        Scanner InputUser = new Scanner(System.in); //input user
         System.out.print("Masukkan Sisi dari segi Duabelas: ");
         s = InputUser.nextDouble();
 
